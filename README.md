@@ -7,7 +7,7 @@ Contact: [nicolaspalacio91@gmail.com](mailto:nicolaspalacio91@gmail.com)
 
 ## Description
 
-All graphics were created using [Inkscape](https://inkscape.org/en/) (freely available for Windows, Mac and Linux).
+All graphics are in `.svg` format and were created using [Inkscape](https://inkscape.org/en/) (freely available for Windows, Mac and Linux).
 
 Currently, the graphics are classified into the following folders:
 - `bio/`: Biological entities (e.g.: biomolecules, cells, organs, ...).
