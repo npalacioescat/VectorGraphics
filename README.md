@@ -3,6 +3,7 @@
 Collection of useful vector graphics to make figures.
 
 Created by Nicolàs Palacio-Escat
+
 Contact: [nicolaspalacio91@gmail.com](mailto:nicolaspalacio91@gmail.com)
 
 ## Description
