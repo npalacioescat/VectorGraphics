@@ -4,7 +4,7 @@ Collection of useful vector graphics to make figures.
 
 Created by Nicolàs Palacio-Escat
 
-Contact: [nicolaspalacio91@gmail.com](mailto:nicolaspalacio91@gmail.com)
+Contact: [nicolas.palacio@bioquant.uni-heidelberg.de](mailto:nicolas.palacio@bioquant.uni-heidelberg.de)
 
 ## Description
 
