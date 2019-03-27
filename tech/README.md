@@ -1,5 +1,8 @@
 # tech
 
+## book
+<img src="book.svg" height="150"/>
+
 ## computer1
 <img src="computer1.svg" height="150"/>
 
