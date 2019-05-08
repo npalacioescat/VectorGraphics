@@ -12,6 +12,18 @@
 ## cell2
 <img src="cell2.svg" height="150"/>
 
+## cell3
+<img src="cell3.svg" height="150"/>
+
+## cell4
+<img src="cell4.svg" height="150"/>
+
+## cell5
+<img src="cell5.svg" height="150"/>
+
+## cell6
+<img src="cell6.svg" height="150"/>
+
 ## dna
 <img src="dna.svg" height="150"/>
 
