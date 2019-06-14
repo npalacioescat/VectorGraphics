@@ -24,6 +24,9 @@
 ## roc
 <img src="roc.svg" height="150"/>
 
+## spectra
+<img src="spectra.svg" height="150"/>
+
 ## time_series
 <img src="time_series.svg" height="150"/>
 
