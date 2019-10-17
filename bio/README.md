@@ -51,6 +51,9 @@
 ## renal_sys
 <img src="renal_sys.svg" height="150"/>
 
+## rna
+<img src="rna.svg" height="150"/>
+
 ## tissue
 <img src="tissue.svg" height="150"/>
 
