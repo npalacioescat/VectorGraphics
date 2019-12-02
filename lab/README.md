@@ -21,6 +21,9 @@
 ## petri_dish
 <img src="petri_dish.svg" height="150"/>
 
+## syringe
+<img src="syringe.svg" height="150"/>
+
 ## test_tube
 <img src="test_tube.svg" height="150"/>
 
