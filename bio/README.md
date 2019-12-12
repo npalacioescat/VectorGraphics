@@ -3,6 +3,9 @@
 ## 1tm_receptor
 <img src="1tm_receptor.svg" height="150"/>
 
+## bone
+<img src="bone.svg" height="150"/>
+
 ## brain
 <img src="brain.svg" height="150"/>
 
@@ -26,6 +29,9 @@
 
 ## dna
 <img src="dna.svg" height="150"/>
+
+## erythrocyte
+<img src="erythrocyte.svg" height="150"/>
 
 ## heart
 <img src="heart.svg" height="150"/>
