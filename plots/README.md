@@ -18,6 +18,9 @@
 ## hmap_ryg
 <img src="hmap_ryg.svg" height="150"/>
 
+## ic50
+<img src="ic50.svg" height="150"/>
+
 ## linear_reg
 <img src="linear_reg.svg" height="150"/>
 
