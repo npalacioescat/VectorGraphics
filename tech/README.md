@@ -3,6 +3,9 @@
 ## book
 <img src="book.svg" height="150"/>
 
+## cog
+<img src="cog.svg" height="150"/>
+
 ## computer1
 <img src="computer1.svg" height="150"/>
 

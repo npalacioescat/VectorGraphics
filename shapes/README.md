@@ -9,6 +9,9 @@
 ## box_arrow2
 <img src="box_arrow2.svg" height="150"/>
 
+## cube
+<img src="cube.svg" height="150"/>
+
 ## curve_brace
 <img src="curve_brace.svg" height="150"/>
 

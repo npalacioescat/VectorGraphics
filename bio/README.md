@@ -27,6 +27,9 @@
 ## cell6
 <img src="cell6.svg" height="150"/>
 
+## cell_group
+<img src="cell_group.svg" height="150"/>
+
 ## dna
 <img src="dna.svg" height="150"/>
 

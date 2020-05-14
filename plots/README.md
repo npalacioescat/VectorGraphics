@@ -3,8 +3,14 @@
 ## PCA
 <img src="PCA.svg" height="150"/>
 
+## boxplot
+<img src="boxplot.svg" height="150"/>
+
 ## cmap20x20
 <img src="cmap20x20.svg" height="150"/>
+
+## corr_hmap_mono_simple
+<img src="corr_hmap_mono_simple.svg" height="150"/>
 
 ## corr_hmap_ryb
 <img src="corr_hmap_ryb.svg" height="150"/>
@@ -29,6 +35,9 @@
 
 ## spectra
 <img src="spectra.svg" height="150"/>
+
+## stack_barplot
+<img src="stack_barplot.svg" height="150"/>
 
 ## time_series
 <img src="time_series.svg" height="150"/>

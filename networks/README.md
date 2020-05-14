@@ -3,6 +3,9 @@
 ## and
 <img src="and.svg" height="150"/>
 
+## community
+<img src="community.svg" height="150"/>
+
 ## decision_tree
 <img src="decision_tree.svg" height="150"/>
 
