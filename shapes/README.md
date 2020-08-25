@@ -36,6 +36,9 @@
 ## sphere
 <img src="sphere.svg" height="150"/>
 
+## stick_man
+<img src="stick_man.svg" height="150"/>
+
 ## stop
 <img src="stop.svg" height="150"/>
 
