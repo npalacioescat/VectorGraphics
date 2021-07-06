@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.077499mm"
+   height="18.7859mm"
+   viewBox="0 0 24.077499 18.7859"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="barplot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="5.12"
+     inkscape:cx="26.757813"
+     inkscape:cy="46.777344"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="3175.1325"
+       originy="-3923.6385" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3175.1325,-3923.6383)">
+    <path
+       id="rect996"
+       style="opacity:0.996;fill:#0045b8;stroke:#0045b8;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m -3172.3542,3931.7083 h 2.6458 v 10.5833 h -2.6458 z" />
+    <path
+       id="rect998"
+       style="opacity:0.996;fill:#0045b8;stroke:#0045b8;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m -3167.0625,3926.4165 h 2.6458 v 15.875 h -2.6458 z" />
+    <path
+       id="rect1000"
+       style="opacity:0.996;fill:#0045b8;stroke:#0045b8;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m -3161.7708,3939.6458 h 2.6459 v 2.6458 h -2.6459 z" />
+    <path
+       id="rect1002"
+       style="opacity:0.996;fill:#0045b8;stroke:#0045b8;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m -3156.4792,3934.354 h 2.6458 v 7.9375 h -2.6458 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -3175,3923.7708 v 18.5208 l 23.8125,1e-4"
+       id="path44"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
