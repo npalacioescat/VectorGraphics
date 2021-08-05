@@ -21,6 +21,9 @@
 ## petri_dish
 <img src="petri_dish.svg" height="150"/>
 
+## pipette
+<img src="pipette.svg" height="150"/>
+
 ## syringe
 <img src="syringe.svg" height="150"/>
 
