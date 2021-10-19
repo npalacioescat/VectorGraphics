@@ -15,6 +15,9 @@
 ## eppendorf
 <img src="eppendorf.svg" height="150"/>
 
+## hyperion_imc
+<img src="hyperion_imc.svg" height="150"/>
+
 ## imc
 <img src="imc.svg" height="150"/>
 
