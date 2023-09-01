@@ -15,6 +15,9 @@
 ## eppendorf
 <img src="eppendorf.svg" height="150"/>
 
+## fusion
+<img src="fusion.svg" height="150"/>
+
 ## hyperion_imc
 <img src="hyperion_imc.svg" height="150"/>
 
@@ -26,6 +29,9 @@
 
 ## pipette
 <img src="pipette.svg" height="150"/>
+
+## qe
+<img src="qe.svg" height="150"/>
 
 ## syringe
 <img src="syringe.svg" height="150"/>
